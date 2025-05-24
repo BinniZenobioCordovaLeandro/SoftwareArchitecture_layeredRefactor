@@ -1,4 +1,12 @@
+# Refactoring de un Monolito a una Arquitectura Modular
 
+# Documents are specified under the `docs` folder
+
+Follow [docs/README.md](docs/README.md) for more information.
+
+
+# ORIGINAL README WITHOUT REFACTORING
+=========
 # Instrucciones para la actividad
 
 ## 🔧 Reestructuración del Proyecto: Ejercicio de Arquitectura Modular
